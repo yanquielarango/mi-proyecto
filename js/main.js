@@ -93,7 +93,7 @@ let  email = document.getElementById('email');
       listadoProductos.push(boletosDias + 'Pases por  dia');
       }
       if(boletos2Dias >= 1) {
-      listadoProductos.push(boletos2Dias + 'Pases por  2 dias');
+      listadoProductos.push(boletos2Dias +  'Pases por  2 dias');
       }
 
       if(boletoCompleto >= 1) {
